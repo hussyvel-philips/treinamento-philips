@@ -1,0 +1,6 @@
+# arquivos com extensão para ignorar
+*.bak
+
+
+
+Obs: esse arquivo precisa ser extensão ".gitignore"
